@@ -1,0 +1,61 @@
+country,year,expected,computed,diff,pass
+Japan,1950,21.31,21.37,0.06,True
+Japan,2000,40.75,40.77,0.01,True
+Japan,2024,49.38,49.39,0.01,True
+Japan,2050,52.76,52.77,0.01,True
+Japan,2100,53.0,52.98,-0.02,True
+Italy,1950,27.55,27.57,0.02,True
+Italy,2000,39.25,39.27,0.02,True
+Italy,2024,47.85,47.76,-0.08,True
+Italy,2050,52.86,52.86,-0.0,True
+Italy,2100,53.42,53.4,-0.02,True
+Germany,1950,32.92,32.9,-0.02,True
+Germany,2000,39.02,39.02,0.0,True
+Germany,2024,45.29,45.32,0.03,True
+Germany,2050,47.9,47.89,-0.01,True
+Germany,2100,47.39,47.38,-0.01,True
+United States of America,1950,28.96,28.96,0.0,True
+United States of America,2000,34.29,34.28,-0.01,True
+United States of America,2024,38.29,38.3,0.01,True
+United States of America,2050,41.86,41.86,-0.0,True
+United States of America,2100,45.32,45.32,-0.0,True
+China,1950,22.25,22.34,0.09,True
+China,2000,28.96,28.96,-0.0,True
+China,2024,39.59,39.59,0.0,True
+China,2050,52.14,52.08,-0.06,True
+China,2100,60.71,60.73,0.03,True
+India,1950,20.02,20.06,0.05,True
+India,2000,21.19,21.27,0.07,True
+India,2024,28.44,28.45,0.01,True
+India,2050,38.26,38.25,-0.02,True
+India,2100,47.78,47.76,-0.01,True
+Brazil,1950,17.47,17.51,0.04,True
+Brazil,2000,24.17,24.18,0.01,True
+Brazil,2024,34.38,34.38,-0.01,True
+Brazil,2050,43.91,43.9,-0.0,True
+Brazil,2100,50.73,50.7,-0.02,True
+Nigeria,1950,18.06,18.11,0.05,True
+Nigeria,2000,16.82,16.9,0.08,True
+Nigeria,2024,17.95,18.01,0.07,True
+Nigeria,2050,23.88,23.89,0.0,True
+Nigeria,2100,34.29,34.29,0.0,True
+Niger,1950,13.97,13.97,0.0,True
+Niger,2000,15.23,15.3,0.07,True
+Niger,2024,15.4,15.5,0.1,True
+Niger,2050,21.2,21.26,0.06,True
+Niger,2100,34.46,34.47,0.0,True
+Democratic Republic of the Congo,1950,17.09,17.18,0.09,True
+Democratic Republic of the Congo,2000,16.05,16.18,0.13,True
+Democratic Republic of the Congo,2024,15.78,15.9,0.12,True
+Democratic Republic of the Congo,2050,20.0,20.05,0.04,True
+Democratic Republic of the Congo,2100,31.78,31.79,0.02,True
+South Africa,1950,19.21,19.22,0.01,True
+South Africa,2000,20.81,20.88,0.08,True
+South Africa,2024,28.47,28.46,-0.01,True
+South Africa,2050,32.29,32.39,0.1,True
+South Africa,2100,38.25,38.26,0.01,True
+Republic of Korea,1950,17.69,17.81,0.13,True
+Republic of Korea,2000,30.65,30.73,0.08,True
+Republic of Korea,2024,45.05,45.06,0.01,True
+Republic of Korea,2050,56.72,56.76,0.03,True
+Republic of Korea,2100,59.85,59.84,-0.01,True
