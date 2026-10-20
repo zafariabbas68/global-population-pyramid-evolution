@@ -8,6 +8,16 @@ A reproducible Python workflow that measures the **shape** of national age struc
 
 ---
 
+
+## Animations
+
+### Comparative dashboard
+
+6 countries, 1950–2100 in 10-year steps.
+
+![Comparative dashboard](figures/animations/comparative_dashboard.gif)
+
+
 ## Contents
 
 - [Highlights](#highlights)
